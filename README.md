@@ -1,6 +1,6 @@
-# Splash Screen
+# Splash Screen - A Simple Splash Screen UI made with Flutter
 
-A simple Splash Screen UI made with Flutter
+![appban](https://user-images.githubusercontent.com/72114434/134793247-64dd6f41-5c6e-47cb-801c-dbf77fcce96c.png)
 
 ##Technologies Used
    - Dart
