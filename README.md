@@ -1,16 +1,16 @@
 # Splash Screen
 
-A new Flutter project.
+A simple Splash Screen UI made with Flutter
 
-## Getting Started
+##Technologies Used
+   - Dart
+   - Flutter
 
-This project is a starting point for a Flutter application.
+## This is an Open-Source project, anyone can use this and modify this
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact Information
+    - Follow me on Instagram: [@invisionchip](https://www.instagram.com/invisionchip)
+    - Subscribe my Youtube Channel: [invisionchip](https://www.youtube.com/channel/UCafeVMVotqWH7jKOR5wzoYA)
+    - Contact me through [WhatsApp](https://api.whatsapp.com/send?phone=+919437007938&text=&source=&data=&app_absent=)
+    
+## Developed with :heart: by Suresh Mishra
