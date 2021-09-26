@@ -2,7 +2,7 @@
 
 ![appban](https://user-images.githubusercontent.com/72114434/134793247-64dd6f41-5c6e-47cb-801c-dbf77fcce96c.png)
 
-##Technologies Used
+## Technologies Used
    - Dart
    - Flutter
 
